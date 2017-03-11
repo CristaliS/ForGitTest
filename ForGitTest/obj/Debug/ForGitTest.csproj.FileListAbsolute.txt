@@ -1,0 +1,15 @@
+D:\C#\ForGitTest\ForGitTest\bin\Debug\ForGitTest.exe.config
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\bin\Debug\ForGitTest.exe.config
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\bin\Debug\ForGitTest.exe
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\bin\Debug\ForGitTest.pdb
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.csprojResolveAssemblyReference.cache
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\MainWindow.g.cs
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\App.g.cs
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest_MarkupCompile.cache
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest_MarkupCompile.lref
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\MainWindow.baml
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.g.resources
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.Properties.Resources.resources
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.csproj.GenerateResource.Cache
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.exe
+C:\Users\S2\Documents\Visual Studio 2015\Projects\ForGitTest\ForGitTest\obj\Debug\ForGitTest.pdb
